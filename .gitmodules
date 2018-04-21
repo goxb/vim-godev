@@ -1,3 +1,69 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/vim/vim.git
+[submodule "plugin/bundle/SimpylFold"]
+	path = plugin/bundle/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "plugin/bundle/Vundle.vim"]
+	path = plugin/bundle/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
+[submodule "plugin/bundle/YouCompleteMe"]
+	path = plugin/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "plugin/bundle/Zenburn"]
+	path = plugin/bundle/Zenburn
+	url = https://github.com/jnurmine/Zenburn.git
+[submodule "plugin/bundle/ctrlp-funky"]
+	path = plugin/bundle/ctrlp-funky
+	url = https://github.com/tacahiroy/ctrlp-funky.git
+[submodule "plugin/bundle/ctrlp.vim"]
+	path = plugin/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "plugin/bundle/indentpython.vim"]
+	path = plugin/bundle/indentpython.vim
+	url = https://github.com/vim-scripts/indentpython.vim.git
+[submodule "plugin/bundle/jedi-vim"]
+	path = plugin/bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "plugin/bundle/nerdtree"]
+	path = plugin/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "plugin/bundle/powerline"]
+	path = plugin/bundle/powerline
+	url = https://github.com/Lokaltog/powerline.git
+[submodule "plugin/bundle/syntastic"]
+	path = plugin/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "plugin/bundle/tagbar"]
+	path = plugin/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "plugin/bundle/taglist.vim"]
+	path = plugin/bundle/taglist.vim
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "plugin/bundle/ultisnips"]
+	path = plugin/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "plugin/bundle/vim-colors-solarized"]
+	path = plugin/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "plugin/bundle/vim-flake8"]
+	path = plugin/bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "plugin/bundle/vim-fugitive"]
+	path = plugin/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "plugin/bundle/vim-go"]
+	path = plugin/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "plugin/bundle/vim-nerdtree-tabs"]
+	path = plugin/bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "plugin/bundle/vim-powerline"]
+	path = plugin/bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "plugin/bundle/vim-sensible"]
+	path = plugin/bundle/vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "plugin/bundle/vim-snippets"]
+	path = plugin/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
